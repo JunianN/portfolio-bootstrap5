@@ -26,3 +26,23 @@ nav {
   background-color: #130000;
   color: white;
 }
+
+footer {
+  background-color: #130a00;
+}
+
+.social {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 2em 0 0;
+  padding: 0;
+}
+
+.social-item {
+  margin: 0 0.5em;
+}
+
+.social-link {
+  padding: 0.5em;
+}
