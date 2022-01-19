@@ -2,20 +2,22 @@ nav {
   background-color: #130a00;
 }
 
-.jumbotron {
-  padding-top: 2rem;
-  background-color: #130000;
+section {
+  padding-top: 5rem;
   color: white;
+}
+
+.jumbotron {
+  padding-top: 4rem;
+  background-color: #130000;
 }
 
 #about {
   background-color: #130009;
-  color: white;
 }
 
 #projects {
   background-color: #130013;
-  color: white;
 }
 
 .card {
@@ -24,7 +26,6 @@ nav {
 
 #contact {
   background-color: #130000;
-  color: white;
 }
 
 footer {
